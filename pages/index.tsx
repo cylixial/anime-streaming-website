@@ -12,7 +12,7 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-4xl font-bold">
-          Welcome to{' '}
+          Welcome To{' '}
           <a className="text-blue-600" href="https://replit.com/@ErikoXDev/Nextjs-TailwindCSS?v=1">
             Next.js + TailwindCSS!
           </a>
